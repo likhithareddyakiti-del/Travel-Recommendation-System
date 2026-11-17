@@ -1,0 +1,28 @@
+destination_id,destination_name,state,latitude,longitude,interests,rating,travel_cost,daily_cost,recommended_days
+1,Calangute Beach,Goa,15.5439,73.7553,beaches|adventure,4.3,6000,2500,3
+2,Munnar,Kerala,10.0889,77.0595,nature|hills,4.5,3500,2200,3
+3,Ooty,Tamil Nadu,11.4102,76.695,hills|nature,4.2,2500,2000,2
+4,Kodaikanal,Tamil Nadu,10.2381,77.4892,hills|nature,4.3,2500,2000,2
+5,Mahabalipuram,Tamil Nadu,12.6208,80.1923,history|beaches,4.1,800,1500,1
+6,Hampi,Karnataka,15.335,76.46,history|adventure,4.6,3500,1800,3
+7,Mysuru,Karnataka,12.2958,76.6394,history,4.4,2200,1800,2
+8,Puducherry,Puducherry,11.9416,79.8083,beaches|history,4.2,1200,1900,2
+9,Madurai,Tamil Nadu,9.9252,78.1198,history,4.3,2000,1500,2
+10,Rameswaram,Tamil Nadu,9.2876,79.3129,history|beaches,4.2,2800,1500,2
+11,Kanyakumari,Tamil Nadu,8.0883,77.5385,beaches|history,4.1,3000,1600,2
+12,Madikeri (Coorg),Karnataka,12.4244,75.7382,nature|hills|adventure,4.4,3500,2200,3
+13,Gokarna,Karnataka,14.5479,74.3188,beaches|nature,4.4,4500,1800,3
+14,Varkala,Kerala,8.7379,76.7163,beaches,4.3,3200,1900,2
+15,Alappuzha,Kerala,9.4981,76.3388,nature,4.4,3000,2300,2
+16,Thekkady,Kerala,9.6,77.1667,nature|adventure,4.3,3000,2000,2
+17,Yercaud,Tamil Nadu,11.7753,78.209,hills|nature,4.0,1500,1700,2
+18,Tirupati,Andhra Pradesh,13.6288,79.4192,history,4.5,800,1200,1
+19,Lonavala,Maharashtra,18.7546,73.4062,hills|nature,4.0,7000,2300,2
+20,Jaipur,Rajasthan,26.9124,75.7873,history,4.5,11000,2600,3
+21,Udaipur,Rajasthan,24.5854,73.7125,history|nature,4.6,11500,2600,3
+22,Manali,Himachal Pradesh,32.2396,77.1887,hills|adventure|nature,4.5,14000,2800,4
+23,Rishikesh,Uttarakhand,30.0869,78.2676,adventure|nature,4.4,12000,2200,3
+24,Varanasi,Uttar Pradesh,25.3176,82.9739,history,4.4,9500,1800,2
+25,Darjeeling,West Bengal,27.036,88.2627,hills|nature,4.4,14000,2400,3
+26,Havelock Island,Andaman and Nicobar Islands,11.976,92.987,beaches|adventure,4.6,16000,3500,4
+27,Jaisalmer,Rajasthan,26.9157,70.9083,history|adventure,4.4,12500,2300,3
